@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<schedule>
+  <event eid="514100" plan="会議" detail="マネージャーミーティング" start="2011-11-29 15:00" end="2011-11-29 17:00">
+    <user order="0" uid="7" name="鈴木 拓也" account="suzuki"/>
+  </event>
+  <event eid="514101" plan="会議" detail="マネージャーミーティング" start="2011-11-29 15:00" end="2011-11-29 17:00">
+    <user order="1" uid="11" name="海外 孝之"/>
+  </event>
+  <event eid="514102" plan="会議" detail="マネージャーミーティング" start="2011-11-29 15:00" end="2011-11-29 17:00">
+    <user order="2" uid="5" name="恋沼 超"/>
+  </event>
+  <event eid="514103" plan="会議" detail="マネージャーミーティング" start="2011-11-29 15:00" end="2011-11-29 17:00">
+    <user order="3" uid="38" name="川上　童夢"/>
+  </event>
+  <event eid="514104" plan="会議" detail="マネージャーミーティング" start="2011-11-29 15:00" end="2011-11-29 17:00">
+    <user order="4" uid="3" name="山田 隆志"/>
+  </event>
+  <event eid="514105" plan="会議" detail="マネージャーミーティング" start="2011-11-29 15:00" end="2011-11-29 17:00">
+    <user order="5" uid="8" name="飛松 生"/>
+  </event>
+  <event eid="514106" plan="会議" detail="マネージャーミーティング" start="2011-11-29 15:00" end="2011-11-29 17:00">
+    <user order="6" uid="6" name="佐藤 昇" account="sato"/>
+  </event>
+  <event eid="514107" plan="会議" detail="マネージャーミーティング" start="2011-11-29 15:00" end="2011-11-29 17:00">
+    <user order="7" uid="19" name="井東 安芸嗣" account="ito"/>
+  </event>
+  <event eid="514108" plan="会議" detail="マネージャーミーティング" start="2011-11-29 15:00" end="2011-11-29 17:00">
+    <user order="8" uid="51" name="John Doe"/>
+  </event>
+  <event eid="514109" plan="会議" detail="マネージャーミーティング" start="2011-11-29 15:00" end="2011-11-29 17:00">
+    <user order="9" uid="55" name="Mitchel Davis"/>
+  </event>
+  <event eid="514110" plan="会議" detail="マネージャーミーティング" start="2011-11-29 15:00" end="2011-11-29 17:00">
+    <user order="10" uid="10" name="田中美子" account="tanaka"/>
+  </event>
+  <event eid="514900" plan="" detail="test" start="2011-11-30 10:00" end="2011-11-30 11:00">
+    <user order="0" uid="6" name="佐藤 昇" account="sato"/>
+  </event>
+  <event eid="514901" plan="" detail="test" start="2011-11-30 10:00" end="2011-11-30 11:00">
+    <user order="1" uid="51" name="John Doe"/>
+  </event>
+  <event eid="514902" plan="" detail="test" start="2011-11-30 10:00" end="2011-11-30 11:00">
+    <user order="2" uid="19" name="井東 安芸嗣" account="ito"/>
+  </event>
+  <event eid="514903" plan="" detail="test" start="2011-11-30 10:00" end="2011-11-30 11:00">
+    <user order="3" uid="14" name="松田 環奈" account="matsuda"/>
+  </event>
+  <event eid="513100" plan="会議" detail="マネージャーミーティング" start="2011-12-05 15:00" end="2011-12-05 17:00">
+    <user order="0" uid="7" name="鈴木 拓也" account="suzuki"/>
+  </event>
+  <event eid="513101" plan="会議" detail="マネージャーミーティング" start="2011-12-05 15:00" end="2011-12-05 17:00">
+    <user order="1" uid="11" name="海外 孝之"/>
+  </event>
+  <event eid="513102" plan="会議" detail="マネージャーミーティング" start="2011-12-05 15:00" end="2011-12-05 17:00">
+    <user order="2" uid="5" name="恋沼 超"/>
+  </event>
+  <event eid="513103" plan="会議" detail="マネージャーミーティング" start="2011-12-05 15:00" end="2011-12-05 17:00">
+    <user order="3" uid="38" name="川上　童夢"/>
+  </event>
+  <event eid="513104" plan="会議" detail="マネージャーミーティング" start="2011-12-05 15:00" end="2011-12-05 17:00">
+    <user order="4" uid="3" name="山田 隆志"/>
+  </event>
+  <event eid="513105" plan="会議" detail="マネージャーミーティング" start="2011-12-05 15:00" end="2011-12-05 17:00">
+    <user order="5" uid="8" name="飛松 生"/>
+  </event>
+  <event eid="513106" plan="会議" detail="マネージャーミーティング" start="2011-12-05 15:00" end="2011-12-05 17:00">
+    <user order="6" uid="6" name="佐藤 昇" account="sato"/>
+  </event>
+  <event eid="513107" plan="会議" detail="マネージャーミーティング" start="2011-12-05 15:00" end="2011-12-05 17:00">
+    <user order="7" uid="19" name="井東 安芸嗣" account="ito"/>
+  </event>
+  <event eid="513108" plan="会議" detail="マネージャーミーティング" start="2011-12-05 15:00" end="2011-12-05 17:00">
+    <user order="8" uid="51" name="John Doe"/>
+  </event>
+  <event eid="513109" plan="会議" detail="マネージャーミーティング" start="2011-12-05 15:00" end="2011-12-05 17:00">
+    <user order="9" uid="55" name="Mitchel Davis"/>
+  </event>
+  <event eid="513110" plan="会議" detail="マネージャーミーティング" start="2011-12-05 15:00" end="2011-12-05 17:00">
+    <user order="10" uid="10" name="田中美子" account="tanaka"/>
+  </event>
+  <event eid="513100" plan="会議" detail="マネージャーミーティング" start="2011-12-12 15:00" end="2011-12-12 17:00">
+    <user order="0" uid="7" name="鈴木 拓也" account="suzuki"/>
+  </event>
+  <event eid="513101" plan="会議" detail="マネージャーミーティング" start="2011-12-12 15:00" end="2011-12-12 17:00">
+    <user order="1" uid="11" name="海外 孝之"/>
+  </event>
+  <event eid="513102" plan="会議" detail="マネージャーミーティング" start="2011-12-12 15:00" end="2011-12-12 17:00">
+    <user order="2" uid="5" name="恋沼 超"/>
+  </event>
+  <event eid="513103" plan="会議" detail="マネージャーミーティング" start="2011-12-12 15:00" end="2011-12-12 17:00">
+    <user order="3" uid="38" name="川上　童夢"/>
+  </event>
+  <event eid="513104" plan="会議" detail="マネージャーミーティング" start="2011-12-12 15:00" end="2011-12-12 17:00">
+    <user order="4" uid="3" name="山田 隆志"/>
+  </event>
+  <event eid="513105" plan="会議" detail="マネージャーミーティング" start="2011-12-12 15:00" end="2011-12-12 17:00">
+    <user order="5" uid="8" name="飛松 生"/>
+  </event>
+  <event eid="513106" plan="会議" detail="マネージャーミーティング" start="2011-12-12 15:00" end="2011-12-12 17:00">
+    <user order="6" uid="6" name="佐藤 昇" account="sato"/>
+  </event>
+  <event eid="513107" plan="会議" detail="マネージャーミーティング" start="2011-12-12 15:00" end="2011-12-12 17:00">
+    <user order="7" uid="19" name="井東 安芸嗣" account="ito"/>
+  </event>
+  <event eid="513108" plan="会議" detail="マネージャーミーティング" start="2011-12-12 15:00" end="2011-12-12 17:00">
+    <user order="8" uid="51" name="John Doe"/>
+  </event>
+  <event eid="513109" plan="会議" detail="マネージャーミーティング" start="2011-12-12 15:00" end="2011-12-12 17:00">
+    <user order="9" uid="55" name="Mitchel Davis"/>
+  </event>
+  <event eid="513110" plan="会議" detail="マネージャーミーティング" start="2011-12-12 15:00" end="2011-12-12 17:00">
+    <user order="10" uid="10" name="田中美子" account="tanaka"/>
+  </event>
+</schedule>

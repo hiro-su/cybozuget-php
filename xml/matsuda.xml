@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<schedule>
+  <event eid="514400" plan="" detail="garu-nn ggagaga" start="2011-11-28 11:00" end="2011-11-28 12:00">
+    <user order="0" uid="6" name="佐藤 昇" account="sato"/>
+  </event>
+  <event eid="514401" plan="" detail="garu-nn ggagaga" start="2011-11-28 11:00" end="2011-11-28 12:00">
+    <user order="1" uid="14" name="松田 環奈" account="matsuda"/>
+  </event>
+  <event eid="514402" plan="" detail="garu-nn ggagaga" start="2011-11-28 11:00" end="2011-11-28 12:00">
+    <user order="2" uid="51" name="John Doe"/>
+  </event>
+  <event eid="514403" plan="" detail="garu-nn ggagaga" start="2011-11-28 11:00" end="2011-11-28 12:00">
+    <user order="3" uid="3" name="山田 隆志"/>
+  </event>
+  <event eid="514500" plan="" detail="garu-nn ggagaga" start="2011-11-29 09:00" end="2011-11-29 10:00">
+    <user order="0" uid="6" name="佐藤 昇" account="sato"/>
+  </event>
+  <event eid="514501" plan="" detail="garu-nn ggagaga" start="2011-11-29 09:00" end="2011-11-29 10:00">
+    <user order="1" uid="14" name="松田 環奈" account="matsuda"/>
+  </event>
+  <event eid="514502" plan="" detail="garu-nn ggagaga" start="2011-11-29 09:00" end="2011-11-29 10:00">
+    <user order="2" uid="51" name="John Doe"/>
+  </event>
+  <event eid="514503" plan="" detail="garu-nn ggagaga" start="2011-11-29 09:00" end="2011-11-29 10:00">
+    <user order="3" uid="3" name="山田 隆志"/>
+  </event>
+  <event eid="514900" plan="" detail="test" start="2011-11-30 10:00" end="2011-11-30 11:00">
+    <user order="0" uid="6" name="佐藤 昇" account="sato"/>
+  </event>
+  <event eid="514901" plan="" detail="test" start="2011-11-30 10:00" end="2011-11-30 11:00">
+    <user order="1" uid="51" name="John Doe"/>
+  </event>
+  <event eid="514902" plan="" detail="test" start="2011-11-30 10:00" end="2011-11-30 11:00">
+    <user order="2" uid="19" name="井東 安芸嗣" account="ito"/>
+  </event>
+  <event eid="514903" plan="" detail="test" start="2011-11-30 10:00" end="2011-11-30 11:00">
+    <user order="3" uid="14" name="松田 環奈" account="matsuda"/>
+  </event>
+</schedule>

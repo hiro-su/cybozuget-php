@@ -1,0 +1,36 @@
+body{
+	margin:auto;
+	width:900px;
+}
+
+a{
+	color:#c06;
+}
+
+a:hover{
+	color:blue;
+}
+
+#xml{
+	margin:10px;
+	padding:10px;
+	border:solid 1px #333;
+}
+
+#soapbody{
+	margin:10px;
+	padding:10px;
+	border:solid 1px #333;
+}
+
+#wrap{
+	margin:10px;
+	padding:10px;
+	border:solid 1px #333;
+}
+
+#name_wrap{
+	margin:10px;
+	padding:10px;
+	border:solid 1px #333;
+}
